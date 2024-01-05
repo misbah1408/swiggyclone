@@ -1,0 +1,152 @@
+#i1{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7);
+}
+#i2{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e33e1d3ba7d6b2bb0d45e1001b731fcf);
+}
+#i3{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/rojhta9kfmyl5h5yiyad);
+}
+#i4{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/yi3pyrpxrt08pqglzcgi);
+}
+#i5{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/d4bfaf7063ea1a26da310e5e718ff47d);
+}
+#i6{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/v1qn6rdgridfthdhtfhz);
+}
+#i7{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/h7vsiufnggqedpmru3r8);
+}
+#i8{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/noezwghfkmx4pq6oyqbx);
+}
+#i9{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ebda6a7869f418a9618787cb4edc5cf9);
+}
+#i10{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/j2wfv2jca1p3rqifbxz0);
+}
+#i11{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/kul1cm8ej5yo1giy5rph);
+}
+#i12{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/909daf097e30cd01d8fd121ddc6de2f6);
+}
+#i13{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/zzdyizru7smwe93yqgha);
+}
+#i14{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hfzekusfgwsckynwdkmz);
+}
+#i15{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ea76w0y2rtwkped32dto);
+}
+#i16{
+    height: 179.9px;
+    width: 260px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    background-image: url(https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/pnuvjjbf79ulebxugtkn);
+}
+.hotels-name{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    row-gap: 30px;
+}
+.hotels-name{
+    height: max-content;
+    width: 100%;
+    margin-top: 20px;
+}
+.res{
+    height: 100px;
+    width: 260px;
+}
+.n span{
+    font-size: .9rem;
+    font-weight: 100;
+    padding: 5px;
+    opacity: 80%;
+}
+.q1:hover{
+    transform: scale(.95) ;
+}
